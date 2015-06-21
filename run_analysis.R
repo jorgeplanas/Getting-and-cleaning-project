@@ -158,5 +158,5 @@ AVEdata<-summarise(groupdata,
 
 #Export the dataframe into a text file
 
-write.table(AVEdata,file="./projdata/AVEdata.txt")
+write.table(AVEdata,file="./projdata/AVEdata.txt",row.name=FALSE)
 
