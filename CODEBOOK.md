@@ -39,78 +39,113 @@ Subject: ID of the subject who performed the activities
 Activity: Specific activity performed (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
 AVEtBodyAcc_mean_X: Aggregate mean of the mean values of the time body acceleration signal in the x axis
+
 AVEtBodyAcc_mean_Y: Aggregate mean of the mean values of the time body acceleration signal in the y axis
+
 AVEtBodyAcc_mean_Z: Aggregate mean of the mean values of the time body acceleration signal in the z axis
 
 AVEtBodyAcc_std_X: Aggregate mean of the standard deviation values of the time body acceleration signal in the x axis
+
 AVEtBodyAcc_std_Y: Aggregate mean of the standard deviation  values of the time body acceleration signal in the y axis
+
 AVEtBodyAcc_std_Z: Aggregate mean of the standard deviation  values of the time body acceleration signal in the z axis
 
 AVEtGravityAcc_mean_X: Aggregate mean of the mean values of the time gravity acceleration signal in the x axis
+
 AVEtGravityAcc_mean_Y: Aggregate mean of the mean values of the time gravity acceleration signal in the y axis
+
 AVEtGravityAcc_mean_Z: Aggregate mean of the mean values of the time gravity acceleration signal in the z axis
 
 AVEtGravityAcc_std_X: Aggregate mean of the standard deviation values of the time gravity acceleration signal in the x axis
+
 AVEtGravityAcc_std_Y: Aggregate mean of the standard deviation  values of the time gravity acceleration signal in the y axis
+
 AVEtGravityAcc_std_Z: Aggregate mean of the standard deviation  values of the time gravity acceleration signal in the z axis
 
 AVEtBodyAccJerk_mean_X: Aggregate mean of the mean values of the time body acceleration jerk in the x axis
+
 AVEtBodyAccJerk_mean_Y: Aggregate mean of the mean values of the time body acceleration jerk in the y axis
+
 AVEtBodyAccJerk_mean_Z: Aggregate mean of the mean values of the time body acceleration jerk in the z axis
 
 AVEtBodyAccJerk_std_X: Aggregate mean of the standard deviation values of the time body acceleration jerk in the x axis
+
 AVEtBodyAccJerk_std_Y: Aggregate mean of the standard deviation values of the time body acceleration jerk in the y axis
+
 AVEtBodyAccJerk_std_Z: Aggregate mean of the standard deviation values of the time body acceleration jerk in the z axis
 
 AVEtBodyGyro_mean_X: Aggregate mean of the mean values of the time body angular velocity signal in the x axis
+
 AVEtBodyGyro_mean_Y: Aggregate mean of the mean values of the time body angular velocity signal in the y axis
+
 AVEtBodyGyro_mean_Z: Aggregate mean of the mean values of the time body angular velocity signal in the z axis
 
 AVEtBodyGyro_std_X: Aggregate mean of the standard deviation values of the time body angular velocity signal in the x axis
+
 AVEtBodyGyro_std_Y: Aggregate mean of the standard deviation  values of the time body angular velocity signal in the y axis
+
 AVEtBodyGyro_std_Z: Aggregate mean of the standard deviation  values of the time body angular velocity signal in the z axis
 
 AVEtBodyGyroJerk_mean_X: Aggregate mean of the mean values of the time body angular velocity jerk in the x axis
+
 AVEtBodyGyroJerk_mean_Y: Aggregate mean of the mean values of the time body angular velocity jerk in the y axis
+
 AVEtBodyGyroJerk_mean_Z: Aggregate mean of the mean values of the time body angular velocity jerk in the z axis
 
 AVEtBodyGyroJerk_std_X: Aggregate mean of the standard deviation values of the time body angular velocity jerk in the x axis
+
 AVEtBodyGyroJerk_std_Y: Aggregate mean of the standard deviation values of the time body angular velocity jerk in the y axis
+
 AVEtBodyGyroJerk_std_Z: Aggregate mean of the standard deviation values of the time body angular velocity jerk in the z axis
 
 AVEtBodyAccMag_mean: Aggregate mean of the mean values of the time magnitude of the body acceleration signal
+
 AVEtBodyAccMag_std: Aggregate mean of the standard deviation values of the time magnitude of the body acceleration signal
 
 AVEtGravityAccMag_mean: Aggregate mean of the mean values of the time magnitude of the gravity acceleration signal
+
 AVEtGravityAccMag_std: Aggregate mean of the standard deviation values of the time magnitude of the gravity acceleration signal
 
 AVEtBodyAccJerkMag_mean: Aggregate mean of the mean values of the time magnitude of the body acceleration jerk
+
 AVEtBodyAccJerkMag_std: Aggregate mean of the standard deviation values of the time magnitude of the  body acceleration jerk
 
 AVEtBodyGyroMag_mean: Aggregate mean of the mean values of the time magnitude of the body angular velocity signal
+
 AVEtBodyGyroMag_std: Aggregate mean of the standard deviation values of the time magnitude of the body angular velocity signal
 
 AVEtBodyGyroJerkMag_mean: Aggregate mean of the mean values of the time magnitude of the body angular velocity jerk
+
 AVEtBodyGyroJerkMag_std: Aggregate mean of the standard deviation values of the time magnitude of the  body angular velocity jerk
 
 AVEfBodyAcc_mean_X: Aggregate mean of the mean values of the frequency body acceleration signal in the x axis
+
 AVEfBodyAcc_mean_Y: Aggregate mean of the mean values of the frequency body acceleration signal in the y axis
+
 AVEfBodyAcc_mean_Z: Aggregate mean of the mean values of the frequency body acceleration signal in the z axis
 
 AVEfBodyAcc_std_X: Aggregate mean of the standard deviation values of the frequency body acceleration signal in the x axis
+
 AVEfBodyAcc_std_Y: Aggregate mean of the standard deviation  values of the frequency body acceleration signal in the y axis
+
 AVEfBodyAcc_std_Z: Aggregate mean of the standard deviation  values of the frequency body acceleration signal in the z axis
 
 AVEfBodyAccJerk_mean_X: Aggregate mean of the mean values of the frequency body acceleration jerk in the x axis
+
 AVEfBodyAccJerk_mean_Y: Aggregate mean of the mean values of the frequency body acceleration jerk in the y axis
+
 AVEfBodyAccJerk_mean_Z: Aggregate mean of the mean values of the frequency body acceleration jerk in the z axis
 
 AVEfBodyAccJerk_std_X: Aggregate mean of the standard deviation values of the frequency body acceleration jerk in the x axis
+
 AVEfBodyAccJerk_std_Y: Aggregate mean of the standard deviation values of the frequency body acceleration jerk in the y axis
+
 AVEfBodyAccJerk_std_Z: Aggregate mean of the standard deviation values of the frequency body acceleration jerk in the z axis
 
 AVEfBodyGyro_mean_X: Aggregate mean of the mean values of the frequency body angular velocity signal in the x axis
+
 AVEfBodyGyro_mean_Y: Aggregate mean of the mean values of the frequency body angular velocity signal in the y axis
+
 AVEfBodyGyro_mean_Z: Aggregate mean of the mean values of the frequency body angular velocity signal in the z axis
 
 AVEfBodyGyro_std_X: Aggregate mean of the standard deviation values of the frequency body angular velocity signal in the x axis
