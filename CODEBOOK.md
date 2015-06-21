@@ -114,18 +114,24 @@ AVEfBodyGyro_mean_Y: Aggregate mean of the mean values of the frequency body ang
 AVEfBodyGyro_mean_Z: Aggregate mean of the mean values of the frequency body angular velocity signal in the z axis
 
 AVEfBodyGyro_std_X: Aggregate mean of the standard deviation values of the frequency body angular velocity signal in the x axis
+
 AVEfBodyGyro_std_Y: Aggregate mean of the standard deviation  values of the frequency body angular velocity signal in the y axis
+
 AVEfBodyGyro_std_Z: Aggregate mean of the standard deviation  values of the frequency body angular velocity signal in the z axis
 
 AVEfBodyAccMag_mean: Aggregate mean of the mean values of the frequency magnitude of the body acceleration signal
+
 AVEfBodyAccMag_std: Aggregate mean of the standard deviation values of the frequency magnitude of the body acceleration signal
 
 AVEfBodyAccJerkMag_mean: Aggregate mean of the mean values of the frequency magnitude of the body acceleration jerk
+
 AVEfBodyAccJerkMag_std: Aggregate mean of the standard deviation values of the frequency magnitude of the  body acceleration jerk
 
 AVEfBodyGyroMag_mean: Aggregate mean of the mean values of the frequency magnitude of the body angular velocity signal
+
 AVEfBodyGyroMag_std: Aggregate mean of the standard deviation values of the frequency magnitude of the body angular velocity signal
 
 AVEfBodyGyroJerkMag_mean: Aggregate mean of the mean values of the frequency magnitude of the body angular velocity jerk
+
 AVEfBodyGyroJerkMag_std: Aggregate mean of the standard deviation values of the frequency magnitude of the  body angular velocity jerk
 
